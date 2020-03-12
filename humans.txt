@@ -26,3 +26,5 @@
     jQuery, Modernizr
     Machine Learning, AWS, Google Cloud
     AWS Solution Architect Developer
+
+HTML, CSS
