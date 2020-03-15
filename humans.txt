@@ -28,3 +28,4 @@
     AWS Solution Architect Developer
 
 HTML, CSS
+Addition of a line on the humans.txt
